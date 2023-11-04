@@ -9,6 +9,8 @@
 # testing
 /coverage
 
+/README.md
+
 # production
 /build
 
